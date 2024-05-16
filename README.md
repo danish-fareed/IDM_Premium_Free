@@ -78,4 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template further to fit your specific script and preferences!
